@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938648216554",
+    "project_id": "contoh1-9e74b",
+    "storage_bucket": "contoh1-9e74b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938648216554:android:d9b60ec6b947bbae15c893",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938648216554-b69bujnn2hf38itp21ijet84tngd8s54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVyx6KV0Tio9AB8tNqHqBDwe2Zj9Itjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938648216554-b69bujnn2hf38itp21ijet84tngd8s54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
